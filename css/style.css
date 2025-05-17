@@ -108,7 +108,6 @@ p {
     display: flex;
     flex-direction: row;
     align-items: center;
-    padding-right: 4rem;
 }
 
 .image01 {
