@@ -45,17 +45,17 @@
 }
 
 .meu-input {
-  padding-left: 20px;
+    padding-left: 20px;
 }
 
 a {
-  color: var(--dark-gray-2);
-  text-decoration: none;
-  color: inherit;
+    color: var(--dark-gray-2);
+    text-decoration: none;
+    color: inherit;
 }
 
 a:hover {
-  text-decoration: underline;
+    text-decoration: underline;
 }
 
 .form-email {
@@ -112,7 +112,7 @@ p {
 }
 
 .image01 {
-   margin: 0 -7rem 10rem 0;
+    margin: 0 -7rem 10rem 0;
 }
 
 .image02 {
